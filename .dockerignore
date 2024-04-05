@@ -1,0 +1,6 @@
+Dockerfile
+Dockerfile-backup
+.dockerignore
+node_modules
+README.md
+.git
